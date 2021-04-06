@@ -54,4 +54,5 @@ dkms.conf
 #Project
 bin
 obj
+.vs/*
 config.json
