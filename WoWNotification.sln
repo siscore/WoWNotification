@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotDatabase", "BotDatabase\BotDatabase.csproj", "{BFCBED19-0FA0-49C1-BAA2-A53D8BBA7E02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordWoWWorldQuestBot", "DiscordBot\DiscordWoWWorldQuestBot.csproj", "{84D125D4-6A4B-44C7-BCA3-07706E008395}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordWoWWorldQuestBot", "DiscordWoWWorldQuestBot\DiscordWoWWorldQuestBot.csproj", "{84D125D4-6A4B-44C7-BCA3-07706E008395}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowheadParser", "WowheadParser\WowheadParser.csproj", "{D32CF496-57DC-494F-8C07-B59C5C774F2F}"
 EndProject
